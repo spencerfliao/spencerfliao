@@ -8,13 +8,14 @@
 - 📫 How to reach me: [Email or LinkedIn]
 
 ## ⚙️ Technologies
-- Languages: Python, R, JavaScript
+- Languages: Python, R, SQL
 - Frameworks: React, Django
 - Tools: Docker, Kubernetes, AWS
 
 ## 🏆 Achievements
 - Certified Data Analyst - [Google Data Analytics]
-- Winner of [Corpus Refinement and Utilization Competition @ UBC] Hackathon 2024
+- Winner of [] Capstone Project
+- Winner of [Corpus Refinement and Utilization Competition @ UBC] 2024
 
 ## 📚 Featured Projects
 
@@ -23,4 +24,4 @@
 
 
 ## 🌐 Find me at
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](your-linkedin-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/sfliao/))
