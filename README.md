@@ -24,6 +24,7 @@
 
 
 ## 🌐 Find me at
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/sfliao/))
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sfliao/) Spencer Liao
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sfliao/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-NicoleTu-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nicoletu/)
+[![Email](https://img.shields.io/badge/Email-f.liao%40aol.com-orange?style=flat&logo=microsoftoutlook)](mailto:f.liao@aol.com)
 
