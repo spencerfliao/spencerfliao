@@ -5,8 +5,8 @@ I'm an MDS graduate with a passion for data science, machine learning, and langu
 
 ## 📚 Featured Projects
 
-[Project Name](link-to-repository)
-* A brief description of the project.
+[Goodsidian]([link-to-repository](https://github.com/spencerfliao/Goodsidian))
+* A tool designed to transform the books from your Goodreads shelves into neatly formatted notes in Obsidian, allowing you to showcase, collect, and annotate them in your desired style.
 
 ## ⚙️ Technologies
 - Programming & Data: Python, data stacks(NumPy, Pandas), R, SQL, PostgreSQL, MongoDB, GitHub, Docker
