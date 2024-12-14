@@ -3,8 +3,8 @@
 Welcome to my Github page, where I showcase recent projects, both professional and personal!
 I'm an MDS graduate with a passion for data science, machine learning, and language.
 
+<br><br>
 
-  
 ## 📚 Featured Projects
 
 ### [Multi-Lingual Text Detoxification](https://github.com/spencerfliao/speech_sanitizer)
