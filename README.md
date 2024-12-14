@@ -3,8 +3,9 @@
 Welcome to my Github page, where I showcase recent projects, both professional and personal!
 I'm an MDS graduate with a passion for data science, machine learning, and language.
 
-## 📚 Featured Projects
 
+  
+## 📚 Featured Projects
 
 ### [Multi-Lingual Text Detoxification](https://github.com/spencerfliao/speech_sanitizer)
 Online environments are often marred by the presence of toxic comments that can lead to negative user experiences. Our project develops a multilingual text detoxification system that efficiently transforms these toxic texts into non-toxic content, maintaining the original meaning and promoting a safer, more inclusive digital communication space.
