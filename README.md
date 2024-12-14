@@ -1,7 +1,7 @@
 # Hi, I'm Spencer!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-SpencerLiao-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sfliao/)
-[![Email](https://img.shields.io/badge/Email-f.liao%40aol.com-orange?style=flat&logo=microsoftoutlook)](mailto:f.liao@aol.com)
+[![Email](https://img.shields.io/badge/Email-f.liao%40aol.com-orange?style=flat&logo=microsoftoutlook)](mailto:f.liao@aol.com)  
 Welcome to my Github page, where I showcase recent projects, both professional and personal!
 I'm an MDS graduate with a passion for data science, machine learning, and language.
 
