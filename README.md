@@ -8,7 +8,7 @@ I'm an MDS graduate with a passion for data science, machine learning, and langu
 
 <br>
 
-## 📚 Featured Projects
+## Featured Projects
 
 ### [Multi-Lingual Text Detoxification](https://github.com/spencerfliao/speech_sanitizer)
 * Online environments are often marred by the presence of toxic comments that can lead to negative user experiences. Our project develops a multilingual text detoxification system that efficiently transforms these toxic texts into non-toxic content, maintaining the original meaning and promoting a safer, more inclusive digital communication space.
@@ -18,14 +18,15 @@ I'm an MDS graduate with a passion for data science, machine learning, and langu
 
 <br>
 
-## ⚙️ Technologies
+## ⚙Technologies
 - Programming & Data: Python, data stacks(NumPy, Pandas), R, SQL, PostgreSQL, MongoDB, GitHub, Docker
 - Machine Learning: deep learning, neural networks, transformers, supervised learning(SVM, kNN), PyTorch, TensorFlow, Scikit-learn
 - NLP: natural language generation, topic modeling, sentiment analysis, named entity recognition, machine translation
 
 <br>
 
-## 🏆 Achievements
+## Achievements
+- Certified AWS Cloud Practitioner
 - Certified Data Analyst - [Google Data Analytics]
 - Winner of [Best Technical Innovation] for Corpus Refinement and Utilization Competition @ UBC 2024
 - Winner of [Best Presented Project] for MDS Capstone Project
