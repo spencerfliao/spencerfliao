@@ -29,7 +29,7 @@ I'm an MDS graduate with a passion for data science, analytics and insights, mac
 
 <br>
 
-## ⚙Technologies
+## Technologies
 - Programming & Data: Python, data stacks(NumPy, Pandas), R, SQL, PostgreSQL, MongoDB, GitHub, Docker
 - Machine Learning: deep learning, neural networks, transformers, supervised learning(SVM, kNN), PyTorch, TensorFlow, Scikit-learn
 - NLP: natural language generation, topic modeling, sentiment analysis, named entity recognition, machine translation
